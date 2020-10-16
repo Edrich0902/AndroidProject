@@ -1,0 +1,67 @@
+<resources>
+    <string name="testOTP">1234</string>
+    <string name="app_name">LINKVANTAGE</string>
+    <string name="login_title">LINKVANTAGE</string>
+    <string name="logo">login page logo</string>
+    <string name="usernameInp">USERNAME</string>
+    <string name="loginButText">LOGIN</string>
+    <string name="passwordHint">PASSWORD</string>
+    <string name="registerBut">REGISTER</string>
+    <string name="linkvantage_title">LINKVANTAGE</string>
+    <string name="forgot_pw">FORGOT PASSWORD?</string>
+    <string name="recover_password_title">RECOVER PASSWORD</string>
+    <string name="email_inp">EMAIL</string>
+    <string name="back_to_login_txt">RETURN TO LOGIN</string>
+    <string name="submit_reset_request_txt">SUBMIT RESET REQUEST</string>
+    <string name="client_option_txt">CLIENT</string>
+    <string name="company_option_txt">COMPANY</string>
+    <string name="contacts_title_txt">CONTACT</string>
+    <string name="contact_container_title">CONTACT 1</string>
+    <string name="first_name_inp_txt">FIRST NAME</string>
+    <string name="last_name_inp_txt">LAST NAME</string>
+    <string name="phone_number_reg_inp">PHONE NUMBER</string>
+    <string name="add_another_contact_btn_txt">ADD CONTACT</string>
+    <string name="address_reg_title">ADDRESS</string>
+    <string name="street_number_reg_txt">STREET NUMBER</string>
+    <string name="street_name_reg_txt">STREET NAME</string>
+    <string name="city_suburb_reg_txt">CITY/SUBURB</string>
+    <string name="postal_code_reg_txt">POSTAL CODE</string>
+    <string name="additional_information_reg_txt">ADDITIONAL INFORMATION</string>
+    <string name="register_account_btn_txt">REGISTER ACCOUNT</string>
+    <string-array name="password_recovery_options">
+        <item>Web OTP</item>
+        <item>Email OTP</item>
+    </string-array>
+    <string name="title_activity_dashboard">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="action_settings">Settings</string>
+    <string name="profile_settings">Profile Settings</string>
+    <string name="recent_jobs">Recent Jobs</string>
+    <string name="settings">Settings</string>
+    <string name="notification_settings">Notifications</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="version_info">This is the latest version</string>
+    <string name="version">Version 1.0</string>
+    <string name="copyrightText">Cerebruteq © 2020</string>
+    <string name="regInfo">Only one contact and address can be created during registration additional ones can be added after registration</string>
+    <string name="regInfoPrivClient">Only one contact can be created during registration additional ones can be added after registration</string>
+    <string name="otpInfo">To reset your password an OTP will be sent to you either via email or to your account on the website</string>
+    <string name="otpMessage">Generated OTP to be used for password recovery</string>
+    <string-array name="priority_options">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+        <item>Urgent</item>
+    </string-array>
+    <string-array name="jobStatus_options">
+        <item>In Progress</item>
+        <item>Preparing</item>
+        <item>Waiting on client</item>
+        <item>Not started</item>
+        <item>Finished</item>
+    </string-array>
+</resources>
