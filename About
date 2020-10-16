@@ -1,0 +1,7 @@
+This project was part of a large group project where we had to develop an android application and website for a client. The project specified that we develop software for a real client, but the client cannot be given the software. The client only gave his/her inputs to the project.
+
+As this was a group project not all of the code in this project is mine, but the majority of the android application was done by myself.
+
+The goal of this application is to provide the user a more concise view of the information present on the website. The client and user of this application works as an IT technician and is constantly on the road. The client's main requirement was that the app could be used on the road to make their life easier while working. This app thus allows them to manage their clients, jobs, and sales better.
+
+The app connects to the website/web server, which is also in my Github in the Website repository. The website acts as both the website and web server and handles all database communications. The app connects to the web server and retrieves the necessary information from there.
